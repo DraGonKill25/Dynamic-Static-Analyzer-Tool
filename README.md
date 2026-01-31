@@ -150,7 +150,7 @@ Place your `.yar` or `.yara` files in the `rules/` folder. The scan will apply t
 
 ## License
 
-GPL License.
+Apache 2.0 License.
 
 ## Disclaimer
 
