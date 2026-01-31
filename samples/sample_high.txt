@@ -1,0 +1,22 @@
+MZc2 beacon callback c2=192.168.1.50:4444
+command and control check-in server
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run malware
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Startup @reboot cron systemd
+https://malicious-c2.evil.ru/beacon
+https://callback.darknet.tk/api
+http://10.0.0.1:31337/c2
+http://c2.malware.cn/command
+https://beacon.darkweb.io/check-in
+192.168.1.1 8.8.8.8 185.220.101.45 172.16.0.1
+sandbox debugger virtualbox vmware vbox
+qemu proc/self status
+IsDebuggerPresent CheckRemoteDebuggerPresent
+powershell -encodedcommand Invoke-Expression
+Mozilla/5.0 User-Agent: custom
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/==
+C:\Windows\Temp\payload.exe
+C:\Users\Public\malware.bin
+/opt/malware/bin/loader
+/var/tmp/backdoor
+D:\payload\stage2.exe

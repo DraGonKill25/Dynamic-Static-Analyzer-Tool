@@ -1,0 +1,11 @@
+MIT License - Sample benign file for testing
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal in the Software
+without restriction.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+This is a harmless configuration file for demonstration.
+Settings: verbose=false, debug=false, log_level=info.
+Application version 1.0.0 - Build 20250101.
