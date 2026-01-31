@@ -1,0 +1,6 @@
+Jinja2>=3.0.3
+requests>=2.27.1
+pefile
+watchdog
+python-whois
+yara-python

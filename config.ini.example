@@ -1,0 +1,27 @@
+[API]
+# VirusTotal API Key - https://www.virustotal.com/
+key = YOUR_API_KEY_HERE
+
+[PIPELINE]
+vt_threshold = 1
+enable_whois = false
+
+[PROFILE_PE]
+tools = file,strings,hashes,pe,yara,vt
+string_encodings = ascii,utf16,base64
+
+[PROFILE_SCRIPT]
+tools = file,strings,hashes,yara,vt
+string_encodings = ascii,base64
+
+[PROFILE_ELF]
+tools = file,strings,hashes,yara
+string_encodings = ascii,utf16
+
+[PROFILE_DOCUMENT]
+tools = file,strings,hashes,yara,vt
+string_encodings = ascii,base64
+
+[PROFILE_DEFAULT]
+tools = file,strings,hashes,yara,vt
+string_encodings = ascii
